@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![Leetcode Stats](https://leetcard.Mikhail1332/Mikhail1332)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mikhail1332?theme=unicorn&font=Quicksand&ext=heatmap)
 <!---
 Mikhail1332/Mikhail1332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
